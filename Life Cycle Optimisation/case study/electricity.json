@@ -1,0 +1,338 @@
+{
+    "nodes": [
+        {
+            "id": "35518885",
+            "name": "electricity production, photovoltaic, 570kWp open ground installation, multi-Si | electricity, low voltage | APOS, S, United Kingdom",
+            "type": "process",
+	    "revenue": 0.092,
+            "subsidy": 0.0175,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": 400,
+                "y": -100
+            },
+            "next_nodes": [
+                "129438"
+            ]
+        },
+        {
+            "id": "35129438",
+            "name": "electricity production, wind, 1-3MW turbine, offshore | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0382,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -160,
+                "y": 460
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "33940351",
+            "name": "electricity production, hydro, run-of-river | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0372,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -160,
+                "y": 600
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "33181382",
+            "name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0673,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -160,
+                "y": 40
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "26439055",
+            "name": "electricity production, wind, <1MW turbine, onshore | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0382,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -300,
+                "y": 460
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "24770154",
+            "name": "electricity production, natural gas, combined cycle power plant | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -300,
+                "y": -100
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "24708579",
+            "name": "electricity voltage transformation from high to medium voltage | electricity, medium voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.086,
+	    "subsidy": 0,
+            "loss": 0.9931,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": 120,
+                "y": 180
+            },
+            "next_nodes": [
+                "129480"
+            ]
+        },
+        {
+            "id": "20384192",
+            "name": "heat and power co-generation, biogas, gas engine | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0673,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -300,
+                "y": 40
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "17784260",
+            "name": "electricity production, wind, >3MW turbine, onshore | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0382,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -300,
+                "y": 320
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "17524027",
+            "name": "electricity production, hydro, pumped storage | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0372,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -300,
+                "y": 600
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "15701418",
+            "name": "electricity production, natural gas, conventional power plant | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -160,
+                "y": -100
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "14674685",
+            "name": "electricity production, wind, 1-3MW turbine, onshore | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0382,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -160,
+                "y": 320
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "13604478",
+            "name": "heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical | electricity, high voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.084,
+	    "subsidy": 0.0673,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": -300,
+                "y": 180
+            },
+            "next_nodes": [
+                "129319"
+            ]
+        },
+        {
+            "id": "9019963",
+            "name": "electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted | electricity, low voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.092,
+	    "subsidy": 0.0175,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": 400,
+                "y": 40
+            },
+            "next_nodes": [
+                "129438"
+            ]
+        },
+        {
+            "id": "8901112",
+            "name": "electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted | electricity, low voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.092,
+	    "subsidy": 0.0175,
+            "loss": 1.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": 400,
+                "y": 320
+            },
+            "next_nodes": [
+                "129438"
+            ]
+        },
+        {
+            "id": "8897014",
+            "name": "electricity voltage transformation from medium to low voltage | electricity, low voltage | APOS, S, United Kingdom",
+            "type": "process",
+            "revenue": 0.092,
+	    "subsidy": 0,
+            "loss": 0.97,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "position": {
+                "x": 400,
+                "y": 180
+            },
+            "next_nodes": [
+                "129438"
+            ]
+        },
+        {
+            "id": "129319",
+            "name": "electricity, high voltage",
+            "type": "product",
+            "position": {
+                "x": -20,
+                "y": 180
+            },
+            "amount": 0.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "next_nodes": [
+                "24708579"
+            ]
+        },
+        {
+            "id": "129480",
+            "name": "electricity, medium voltage",
+            "type": "product",
+            "position": {
+                "x": 260,
+                "y": 180
+            },
+            "amount": 0.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "next_nodes": [
+                "8897014"
+            ]
+        },
+        {
+            "id": "129438",
+            "name": "electricity, low voltage",
+            "type": "product",
+            "position": {
+                "x": 540,
+                "y": 180
+            },
+            "amount": 109450000000.0,
+	    "longitude": 0.0,
+	    "latitude": 0.0,
+	    "fee": 0.0,
+            "next_nodes": []
+        }
+    ]
+}
